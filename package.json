@@ -3,6 +3,7 @@
   "packageManager": "npm@10.7.0",
   "scripts": {
     "build": "turbo run build",
+    "clean": "turbo run clean",
     "check": "turbo run check",
     "check:format": "turbo run check:format",
     "check:lint": "turbo run check:lint",

@@ -4,6 +4,7 @@
     "build": {
       "dependsOn": ["^build"]
     },
+    "clean": {},
     "check": {
       "dependsOn": ["check:format", "check:lint"]
     },
